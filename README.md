@@ -22,6 +22,11 @@
    - Loss values for Discriminator (`LossD`) and Generator (`LossG`) are printed every 100 batches.
    - Sample generated images are saved after each epoch.
 
+### Command to Run Training:
+```bash
+python train.py
+```
+
 ## Model Testing
 ### Steps to Test:
 1. Load the trained Generator (`netG`).
@@ -47,3 +52,5 @@
   Training Completed!
   Discriminator Accuracy: 83.93%
   ```
+- **Generator Output Distribution:**
+  ![Generator Output](output.png)
