@@ -53,4 +53,4 @@ python train.py
   Discriminator Accuracy: 83.93%
   ```
 - **Generator Output Distribution:**
-  ![Generator Output](output.png)
+  ![Generator Output](Images/output.png)
