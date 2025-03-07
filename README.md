@@ -52,5 +52,3 @@ python train.py
   Training Completed!
   Discriminator Accuracy: 83.93%
   ```
-- **Generator Output Distribution:**
-  ![Generator Output](image.png)
